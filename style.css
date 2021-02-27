@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding-left: 150px;
+    padding-top: 50px;
+    padding-right: 150px;
+    background-color: antiquewhite;
+}
+header{
+    height: 90px;
+}
+header h1{
+    color: rgb(117 123 15);
+    display: inline-block;
+    font-size: 55px;
+    position: relative;
+    top: -20px;
+    right: -40px;
+}
+main{
+  
+    font-size: 25px;
+    color: #63431a;
+}
+body nav img{
+    padding-left: 100px;
+}
